@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background: linear-gradient(#006bb8 0%, #4f0278 100%);
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    font-family: cursive;
+    cursor: pointer;
+    color: black top:10px;
+    right: 30px;
+}
+
+.link {
+    color: red;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px
+}
+.link:hover{
+    background-color: palegreens
+}
